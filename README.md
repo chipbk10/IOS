@@ -9,6 +9,9 @@
 ### UI
 1. [TableView vs CollectionView vs StackView](https://bit.ly/2CfjU7t)
 
+### LifeCycle
+1. [UIViewController Lifecycle](https://bit.ly/2XOkws2)
+
 ### Network
 1. [Asynchronously Loading Images into Table and Collection Views](https://apple.co/3isoIWw)
 2. [Prefetching Collection View Data](https://apple.co/2XLqhXr)
