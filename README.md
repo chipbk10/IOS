@@ -33,6 +33,7 @@
 7. [Enum](https://bit.ly/3adrpbD)
 8. [Lazy](https://bit.ly/3fOeVYS)
 9. [TypeAlias](https://bit.ly/2PHiVzX)
+10. [Convenience Initializers](https://bit.ly/31IGRIK)
 
 ### Interview
 1. [Common Questions](https://bit.ly/2XNwOBd)
