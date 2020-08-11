@@ -9,6 +9,7 @@
 ### UI
 1. [TableView vs CollectionView vs StackView](https://bit.ly/2CfjU7t)
 2. [Bound vs Frame](https://bit.ly/31BEwPZ)
+3. [Gesture Recognizer](https://bit.ly/3kxTwHc)
 
 ### LifeCycle
 1. [UIViewController Lifecycle](https://bit.ly/2XOkws2)
