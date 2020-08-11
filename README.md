@@ -28,7 +28,7 @@
 2. [Unwrapping - Guard, If Let, Chaining, Force](https://bit.ly/3acIulL)
 3. [Filter, Map and Reduce](https://bit.ly/3fKxcX5)
 4. [Class vs Struct](https://bit.ly/2CfHsZK)
-5. 
+5. [Retain Cycle, Automatic Reference Counting, Memory Leak](https://bit.ly/31IwHYv)
 
 ### Interview
 1. [Common Questions](https://bit.ly/2XNwOBd)
