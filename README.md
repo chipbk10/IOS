@@ -22,5 +22,6 @@
 1. [Error Handling - Do, Try, and Catch](https://bit.ly/2Fa50Au)
 2. [Unwrapping - Guard, If Let, Chaining, Force](https://bit.ly/3acIulL)
 3. [Filter, Map and Reduce](https://bit.ly/3fKxcX5)
+4. [Class vs Struct](https://bit.ly/2CfHsZK)
 
 
