@@ -29,6 +29,7 @@
 3. [Filter, Map and Reduce](https://bit.ly/3fKxcX5)
 4. [Class vs Struct](https://bit.ly/2CfHsZK)
 5. [Retain Cycle, Automatic Reference Counting, Memory Leak](https://bit.ly/31IwHYv)
+6. [Access Control: Private, FilePrivate, Internal, Public, Open)(https://bit.ly/3kAnpqc)
 
 ### Interview
 1. [Common Questions](https://bit.ly/2XNwOBd)
