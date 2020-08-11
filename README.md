@@ -30,4 +30,7 @@
 4. [Class vs Struct](https://bit.ly/2CfHsZK)
 5. 
 
+### Interview
+1. [Common Questions](https://bit.ly/2XNwOBd)
+
 
