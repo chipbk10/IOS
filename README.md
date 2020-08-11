@@ -30,6 +30,8 @@
 4. [Class vs Struct](https://bit.ly/2CfHsZK)
 5. [Retain Cycle, Automatic Reference Counting, Memory Leak](https://bit.ly/31IwHYv)
 6. [Access Control: Private, FilePrivate, Internal, Public, Open](https://bit.ly/3kAnpqc)
+7. [Enum](https://bit.ly/3adrpbD)
+8. [Lazy](https://bit.ly/3fOeVYS)
 
 ### Interview
 1. [Common Questions](https://bit.ly/2XNwOBd)
