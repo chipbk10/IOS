@@ -19,7 +19,8 @@
 3. [Concurrency and Threading](https://bit.ly/31zNw84)
 
 ### Design Patterns
-1. [Delegate Protocol Pattern](https://bit.ly/2XP22Ys)
+1. [Delegate Protocol](https://bit.ly/2XP22Ys)
+2. [Notification Center](https://bit.ly/3fUaX1f)
 
 ### Swift
 1. [Error Handling - Do, Try, and Catch](https://bit.ly/2Fa50Au)
