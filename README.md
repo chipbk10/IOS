@@ -32,6 +32,7 @@
 6. [Access Control: Private, FilePrivate, Internal, Public, Open](https://bit.ly/3kAnpqc)
 7. [Enum](https://bit.ly/3adrpbD)
 8. [Lazy](https://bit.ly/3fOeVYS)
+9. [TypeAlias](https://bit.ly/2PHiVzX)
 
 ### Interview
 1. [Common Questions](https://bit.ly/2XNwOBd)
