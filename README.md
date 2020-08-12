@@ -35,6 +35,7 @@
 8. [Lazy](https://bit.ly/3fOeVYS)
 9. [TypeAlias](https://bit.ly/2PHiVzX)
 10. [Convenience Initializers](https://bit.ly/31IGRIK)
+11. [Escape Closure](https://bit.ly/2DAxDXd)
 
 ### Interview
 1. [Common Questions](https://bit.ly/2XNwOBd)
