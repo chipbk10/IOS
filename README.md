@@ -37,6 +37,9 @@
 10. [Convenience Initializers](https://bit.ly/31IGRIK)
 11. [Escape Closure](https://bit.ly/2DAxDXd)
 
+### Advanced
+1. [Writing Energy Efficient Apps](https://apple.co/2EsDQ85)
+
 ### Interview
 1. [Common Questions](https://bit.ly/2XNwOBd)
 2. [What to ask back?](https://bit.ly/30NJZ78)
