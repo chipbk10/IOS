@@ -47,4 +47,7 @@
 1. [Common Questions](https://bit.ly/2XNwOBd)
 2. [What to ask back?](https://bit.ly/30NJZ78)
 
+### To Read
+1. [Scaling up an iOS app using modules](https://engineering.depop.com/scaling-up-an-ios-app-with-modularisation-8cd280d6b2b8)
+
 
