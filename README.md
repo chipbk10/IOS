@@ -49,5 +49,11 @@
 
 ### To Read
 1. [Scaling up an iOS app using modules](https://engineering.depop.com/scaling-up-an-ios-app-with-modularisation-8cd280d6b2b8)
+2. [Grokking the Mobile System Design interview](https://medium.com/@goncharov.artemv/grokking-the-mobile-system-design-interview-6a06fa94491b)
+3. [Mobile System Design Interviews (iOS and Android)](https://blog.usejournal.com/mobile-system-design-interviews-ios-and-android-f5d360292c22)
+4. [iOS System Design Interview - Alex Bush, Youtube](https://www.youtube.com/watch?v=NL2axS2buw4&list=PLwzYxOJe_LV0kkAKlEn0q6yPgSq1VxitH)
+5. [iOS System Design Interview - Alex Bush, Course](https://iosinterviewguide.com/system-design-interview)
+6. [Best Practices for Mobile-Friendly APIs - Natasha Robot](https://www.natashatherobot.com/best-practices-mobile-friendly-apis/)
+7. [A Massive Guide to Building a RESTful API for Your Mobile App](https://savvyapps.com/blog/how-to-build-restful-api-mobile-app)
 
 
