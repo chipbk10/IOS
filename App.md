@@ -2,5 +2,6 @@
 - [sounds](https://material.io/design/sound/sound-resources.html#)
 - [icons, ui kits, fonts](https://freebiesbug.com/)
 - [png images](https://freepngimg.com/)
-
-- [board game](https://www.biboun.com/portfolio/sensei/)
+- [board game 1](https://www.biboun.com/portfolio/sensei/)
+- [board game 2](https://www.deviantart.com/yaensart/art/20-Seamless-Textures-452488831)
+- [stone 1](https://bit.ly/35C2T3h)
