@@ -3,7 +3,7 @@
 ### Architecture
 1. [MVVM in practice](https://www.youtube.com/watch?v=sWx8TtRBOfk): MVVM + binding
 2. [MVC, MVP, MVVM, VIPER](https://bit.ly/3k2N4H6)
-3. [Ribblets](https://eng.uber.com/new-rider-app-architecture/): [SourceCode](https://github.com/uber/RIBs) : [RIP architecture](https://eng.uber.com/driver-app-ribs-architecture/)
+3. [Ribblets](https://eng.uber.com/new-rider-app-architecture/) : [SourceCode](https://github.com/uber/RIBs) : [RIP architecture](https://eng.uber.com/driver-app-ribs-architecture/) : [Video](https://www.youtube.com/watch?v=FfwZSk6VRVY&ab_channel=Devoxx)
 4. [VIPER + SwiftUI](https://bit.ly/3mfB9Yy), [VIPER Sample Video](https://bit.ly/3ioGQ42)
 
 ### Cache
