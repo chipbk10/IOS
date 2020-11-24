@@ -1,0 +1,1 @@
+- [How to write a global constants file](https://www.luby.info/2015/02/15/swift-constants-files.html)
