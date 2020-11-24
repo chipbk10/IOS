@@ -11,6 +11,13 @@
 
 - [Image view with light](https://github.com/mbehan/image-view-lighting)
 
+# Visual Effects:
+
+- [apply chroma key effect](https://developer.apple.com/documentation/coreimage/applying_a_chroma_key_effect)
+- [selectively focusing on an image](https://developer.apple.com/documentation/coreimage/selectively_focusing_on_an_image)
+- [customizing image transitions](https://developer.apple.com/documentation/coreimage/customizing_image_transitions)
+- [simulating cratchy analog film](https://developer.apple.com/documentation/coreimage/simulating_scratchy_analog_film)
+
 # Ideas:
 
 - [Top 13 Puzzle Games for Android & iOS 2017 (1)](https://www.youtube.com/watch?v=kTOVfH1XH5Q&ab_channel=Asrir-Tech)
