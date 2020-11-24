@@ -7,6 +7,10 @@
 - [enigma game](http://www.nongnu.org/enigma/screenshots.html)
 - [3D hero](https://www.pngwing.com/en/free-png-buctc/download)
 
+# Animation:
+
+- [Image view with light](https://github.com/mbehan/image-view-lighting)
+
 # Ideas:
 
 - [Top 13 Puzzle Games for Android & iOS 2017 (1)](https://www.youtube.com/watch?v=kTOVfH1XH5Q&ab_channel=Asrir-Tech)
