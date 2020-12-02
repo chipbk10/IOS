@@ -17,6 +17,7 @@
 - [selectively focusing on an image](https://developer.apple.com/documentation/coreimage/selectively_focusing_on_an_image)
 - [customizing image transitions](https://developer.apple.com/documentation/coreimage/customizing_image_transitions)
 - [simulating cratchy analog film](https://developer.apple.com/documentation/coreimage/simulating_scratchy_analog_film)
+- [shadow effects](https://www.hackingwithswift.com/articles/155/advanced-uiview-shadow-effects-using-shadowpath)
 
 # Ideas:
 
