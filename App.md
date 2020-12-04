@@ -18,6 +18,7 @@
 - [customizing image transitions](https://developer.apple.com/documentation/coreimage/customizing_image_transitions)
 - [simulating cratchy analog film](https://developer.apple.com/documentation/coreimage/simulating_scratchy_analog_film)
 - [shadow effects](https://www.hackingwithswift.com/articles/155/advanced-uiview-shadow-effects-using-shadowpath)
+- [high light image](https://www.photofunny.net/cat-image-processing/highlight-color-black-and-white-photo)
 
 # Ideas:
 
