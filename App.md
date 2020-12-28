@@ -12,6 +12,11 @@
 # Visual Effects:
 
 
+# App Store Connect:
+
+- [Adding a Belgian Bank Account to App Store Connect](https://vandevliet.me/adding-belgian-bank-account-to-app-store-connect/)
+- [How to get your bank account info with iban](iban.com/iban-checker)
+
 # Ideas:
 
 - [Top 13 Puzzle Games for Android & iOS 2017 (1)](https://www.youtube.com/watch?v=kTOVfH1XH5Q&ab_channel=Asrir-Tech)
