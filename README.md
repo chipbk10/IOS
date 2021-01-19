@@ -23,6 +23,9 @@
 3. [Concurrency and Threading](https://bit.ly/31zNw84)
 4. [Result Type : Cleaner Network Calls](https://bit.ly/3ajgOfk)
 
+### Multithreading
+1. [Concurrency & Multithreading](https://www.viget.com/articles/concurrency-multithreading-in-ios/)
+
 ### Design Patterns
 1. [Delegate Protocol](https://bit.ly/2XP22Ys)
 2. [Notification Center](https://bit.ly/3fUaX1f)
