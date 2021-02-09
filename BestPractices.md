@@ -1,1 +1,2 @@
 - [How to write a global constants file](https://www.luby.info/2015/02/15/swift-constants-files.html)
+- [In app purchase guide](https://www.appcoda.com/in-app-purchases-guide/), [Code](https://github.com/appcoda/In-app-Purchase-Game-Demo)
