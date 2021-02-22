@@ -18,6 +18,7 @@
 
 - [Adding a Belgian Bank Account to App Store Connect](https://vandevliet.me/adding-belgian-bank-account-to-app-store-connect/)
 - [How to get your bank account info with iban](iban.com/iban-checker)
+- [Make an App Review video](https://www.leonte.dev/articles/app-review-videos/)
 
 # Ideas:
 
