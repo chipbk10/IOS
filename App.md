@@ -5,6 +5,7 @@
 - [sounds](https://material.io/design/sound/sound-resources.html#)
 - [free short background music](https://www.our-music-box.com/free-music)
 - [color picker & pattern](https://uicolorpicker.com/)
+- [emojis](https://getemoji.com/), [symbols](https://getsymbols.com/)
 
 # Animation:
 
