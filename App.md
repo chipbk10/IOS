@@ -1,9 +1,10 @@
 # Resource:
 
 - [ui components](https://github.com/material-components)
-- [icons](https://material.io/resources/icons/?style=baseline)
+- [icons](https://material.io/resources/icons/?style=baseline), [iconmonstr](https://iconmonstr.com/)
 - [sounds](https://material.io/design/sound/sound-resources.html#)
-- color palette: [Pastel]()
+- [free short background music](https://www.our-music-box.com/free-music)
+- [color picker & pattern](https://uicolorpicker.com/)
 
 # Animation:
 
