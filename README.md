@@ -50,6 +50,9 @@
 1. [Common Questions](https://bit.ly/2XNwOBd)
 2. [What to ask back?](https://bit.ly/30NJZ78)
 
+### CV
+1. [leonte](https://www.leonte.dev/)
+
 ### To Read
 1. [Scaling up an iOS app using modules](https://engineering.depop.com/scaling-up-an-ios-app-with-modularisation-8cd280d6b2b8)
 2. [Grokking the Mobile System Design interview](https://medium.com/@goncharov.artemv/grokking-the-mobile-system-design-interview-6a06fa94491b)
