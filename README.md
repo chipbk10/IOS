@@ -50,6 +50,9 @@
 1. [NSUserDefaults vs KeyChain vs CoreData](https://fluffy.es/persist-data/)
 2. [... vs plist, files, sqlite](https://bit.ly/3biOn31)
 
+### Package Manager
+1. [Cocoapods vs Carthage vs Swift Package Manager](https://www.codementor.io/blog/swift-package-manager-5f85eqvygj)
+
 ### Advanced
 1. [Writing Energy Efficient Apps](https://apple.co/2EsDQ85)
 2. [Instrutment](https://bit.ly/3qitedB)
