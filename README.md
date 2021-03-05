@@ -42,6 +42,7 @@
 10. [TypeAlias](https://bit.ly/2PHiVzX)
 11. [Convenience Initializers vs Designated Initializers](https://bit.ly/31IGRIK)
 12. [Escape Closure](https://bit.ly/2DAxDXd)
+13. [OptionSet](https://www.andyibanez.com/posts/optionset-in-swift/)
 
 ### Advanced
 1. [Writing Energy Efficient Apps](https://apple.co/2EsDQ85)
