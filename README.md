@@ -44,6 +44,9 @@
 12. [Escape Closure](https://bit.ly/2DAxDXd)
 13. [OptionSet](https://www.andyibanez.com/posts/optionset-in-swift/)
 
+### Storage
+1. [NSUserDefaults vs KeyChain vs CoreData](https://fluffy.es/persist-data/)
+
 ### Advanced
 1. [Writing Energy Efficient Apps](https://apple.co/2EsDQ85)
 
