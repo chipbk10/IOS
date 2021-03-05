@@ -43,6 +43,7 @@
 11. [Convenience Initializers vs Designated Initializers](https://bit.ly/31IGRIK)
 12. [Escape Closure](https://bit.ly/2DAxDXd)
 13. [OptionSet](https://www.andyibanez.com/posts/optionset-in-swift/)
+14. [Push Notification: Local & Remote](https://www.applemust.com/how-ios-push-notification-works/), [video](https://www.youtube.com/watch?v=3Dp8iONM8G8&ab_channel=GoogleDevelopers)
 
 ### Storage
 1. [NSUserDefaults vs KeyChain vs CoreData](https://fluffy.es/persist-data/)
