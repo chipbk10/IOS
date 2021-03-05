@@ -40,7 +40,7 @@
 8. [Enum](https://bit.ly/3adrpbD)
 9. [Lazy](https://bit.ly/3fOeVYS)
 10. [TypeAlias](https://bit.ly/2PHiVzX)
-11. [Convenience Initializers](https://bit.ly/31IGRIK)
+11. [Convenience Initializers vs Designated Initializers](https://bit.ly/31IGRIK)
 12. [Escape Closure](https://bit.ly/2DAxDXd)
 
 ### Advanced
