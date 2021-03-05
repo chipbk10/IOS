@@ -46,6 +46,7 @@
 
 ### Storage
 1. [NSUserDefaults vs KeyChain vs CoreData](https://fluffy.es/persist-data/)
+2. [... vs plist, files, sqlite](https://bit.ly/3biOn31)
 
 ### Advanced
 1. [Writing Energy Efficient Apps](https://apple.co/2EsDQ85)
