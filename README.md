@@ -7,7 +7,7 @@
 4. [VIPER + SwiftUI](https://bit.ly/3mfB9Yy), [VIPER Sample Video](https://bit.ly/3ioGQ42)
 
 ### Cache
-1. [NSCache](https://developer.apple.com/documentation/foundation/nscache) What is difference between a cache and a dictionary?
+1. [NSCache](https://developer.apple.com/documentation/foundation/nscache), [#](https://www.andyibanez.com/posts/caching-content-with-nscache/) What is difference between a cache and a dictionary?
 
 ### UI
 1. [TableView vs CollectionView vs StackView](https://bit.ly/2CfjU7t)
@@ -51,7 +51,8 @@
 2. [What to ask back?](https://bit.ly/30NJZ78)
 
 ### CV
-1. [leonte](https://www.leonte.dev/)
+1. [Leonte](https://www.leonte.dev/)
+2. [Andy Ibanez](https://www.andyibanez.com/)
 
 ### To Read
 1. [Scaling up an iOS app using modules](https://engineering.depop.com/scaling-up-an-ios-app-with-modularisation-8cd280d6b2b8)
