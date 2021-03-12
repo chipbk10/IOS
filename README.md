@@ -71,6 +71,7 @@
 ### CV
 1. [Leonte](https://www.leonte.dev/)
 2. [Andy Ibanez](https://www.andyibanez.com/)
+3. [matteomanferdini](https://matteomanferdini.com/about/)
 
 ### Follow
 1. [matteomanferdini](https://matteomanferdini.com/blog/)
