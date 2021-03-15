@@ -85,5 +85,6 @@
 5. [iOS System Design Interview - Alex Bush, Course](https://iosinterviewguide.com/system-design-interview)
 6. [Best Practices for Mobile-Friendly APIs - Natasha Robot](https://www.natashatherobot.com/best-practices-mobile-friendly-apis/)
 7. [A Massive Guide to Building a RESTful API for Your Mobile App](https://savvyapps.com/blog/how-to-build-restful-api-mobile-app)
+8. [System Design Interview](https://davescommutebloghome.wpcomstaging.com/2019/08/27/system-design-interview/)
 
 
