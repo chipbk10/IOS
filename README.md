@@ -14,6 +14,9 @@
 2. [Bound vs Frame](https://bit.ly/31BEwPZ)
 3. [Gesture Recognizer](https://bit.ly/3kxTwHc)
 
+### SwiftUI
+1. [SwiftUI vs Interface Builder vs StoryBoard](https://bit.ly/3cx6hhZ)
+
 ### CoreAnimation
 1. How to do complex animations without nesting multiple UIView.animate? [animateKeyFrames](https://bit.ly/30PHIrj)
 
