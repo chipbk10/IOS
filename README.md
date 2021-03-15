@@ -76,6 +76,7 @@
 
 ### Follow
 1. [matteomanferdini](https://matteomanferdini.com/blog/)
+2. [daves](https://davescommutebloghome.wpcomstaging.com/)
 
 ### To Read
 1. [Scaling up an iOS app using modules](https://engineering.depop.com/scaling-up-an-ios-app-with-modularisation-8cd280d6b2b8)
