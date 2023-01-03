@@ -9,7 +9,7 @@
 - [Sync is a two-way street](https://tech.trello.com/sync-downloads/)
 
 ### Polling
-- Polling in spotty connection
+- Polling in spotty connection, or app runs into background
 
 ### Functional Programming
 
