@@ -2,6 +2,7 @@
 
 ### How to support offline?
 - [Airplane Mode](https://tech.trello.com/sync-architecture/)
+- [Sync](https://tech.trello.com/syncing-changes/)
 
 ### Functional Programming
 
