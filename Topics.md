@@ -8,6 +8,9 @@
 - [Offline attachments](https://tech.trello.com/sync-offline-attachments/)
 - [Sync is a two-way street](https://tech.trello.com/sync-downloads/)
 
+### Polling
+- Polling in spotty connection
+
 ### Functional Programming
 
 
