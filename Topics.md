@@ -2,6 +2,11 @@
 
 ## System Design
 
+- [Design File Downloader Library](https://github.com/weeeBox/mobile-system-design/blob/master/exercises/file-downloader-library.md): to redo
+- [Design Caching Library](https://github.com/weeeBox/mobile-system-design/blob/master/exercises/caching-library.md): to redo
+- [Design Image Library](https://github.com/weeeBox/mobile-system-design/blob/master/exercises/image-library.md): to redo
+- [Design Chat app](https://github.com/weeeBox/mobile-system-design/blob/master/exercises/chat-app.md): to redo
+
 ### How to support offline?
 - Trello
   - [Airplane Mode](https://tech.trello.com/sync-architecture/)
