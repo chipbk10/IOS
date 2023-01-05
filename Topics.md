@@ -1,6 +1,7 @@
 ## Topics
 
 ## System Design
+
 ### How to support offline?
 - Trello
   - [Airplane Mode](https://tech.trello.com/sync-architecture/)
@@ -13,7 +14,10 @@
 
 - Azure
   - [Data Caching and Synchronization](https://www.youtube.com/watch?v=X6VdfcrDU-I&ab_channel=XamarinUniversity)
-  - [Handle Synchronization conflicts](https://www.youtube.com/watch?v=aIuxJHq0NYY&ab_channel=XamarinUniversity)
+  
+### Handle Synchronization conflicts
+- [Azure: Handle Synchronization conflicts](https://www.youtube.com/watch?v=aIuxJHq0NYY&ab_channel=XamarinUniversity)
+- [Google Doc](https://www.youtube.com/watch?v=B5NULPSiOGw&ab_channel=InfoQ)
 
 ### Polling
 - Polling in spotty connection, or app runs into background
