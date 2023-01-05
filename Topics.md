@@ -13,10 +13,10 @@
   - [Display Sync State](https://tech.trello.com/sync-indicators/)
 
 - Azure
-  - [Data Caching and Synchronization](https://www.youtube.com/watch?v=X6VdfcrDU-I&ab_channel=XamarinUniversity)
+  - [Data Caching and Synchronization](https://www.youtube.com/watch?v=X6VdfcrDU-I&ab_channel=XamarinUniversity): to watch
   
 ### Handle Synchronization conflicts
-- [Azure: Handle Synchronization conflicts](https://www.youtube.com/watch?v=aIuxJHq0NYY&ab_channel=XamarinUniversity)
+- [Azure: Handle Synchronization conflicts](https://www.youtube.com/watch?v=aIuxJHq0NYY&ab_channel=XamarinUniversity): to watch
 - [Google Doc](https://www.youtube.com/watch?v=B5NULPSiOGw&ab_channel=InfoQ): automerge, pullrequest
 
 ### Polling
