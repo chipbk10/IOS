@@ -11,6 +11,10 @@
   - [Sync is a two-way street](https://tech.trello.com/sync-downloads/)
   - [Display Sync State](https://tech.trello.com/sync-indicators/)
 
+- Azure
+  - [Data Caching and Synchronization](https://www.youtube.com/watch?v=X6VdfcrDU-I&ab_channel=XamarinUniversity)
+  - [Handle Synchronization conflicts](https://www.youtube.com/watch?v=aIuxJHq0NYY&ab_channel=XamarinUniversity)
+
 ### Polling
 - Polling in spotty connection, or app runs into background
 
