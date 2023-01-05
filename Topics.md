@@ -2,12 +2,14 @@
 
 ## System Design
 ### How to support offline?
-- [Airplane Mode](https://tech.trello.com/sync-architecture/)
-- [Sync](https://tech.trello.com/syncing-changes/)
-- [Sync Failure Handling](https://tech.trello.com/sync-failure-handling/)
-- [Sync two id problem](https://tech.trello.com/sync-two-id-problem/)
-- [Offline attachments](https://tech.trello.com/sync-offline-attachments/)
-- [Sync is a two-way street](https://tech.trello.com/sync-downloads/)
+- Trello
+  - [Airplane Mode](https://tech.trello.com/sync-architecture/)
+  - [Sync](https://tech.trello.com/syncing-changes/)
+  - [Sync Failure Handling](https://tech.trello.com/sync-failure-handling/)
+  - [Sync two id problem](https://tech.trello.com/sync-two-id-problem/)
+  - [Offline attachments](https://tech.trello.com/sync-offline-attachments/)
+  - [Sync is a two-way street](https://tech.trello.com/sync-downloads/)
+  - [Display Sync State](https://tech.trello.com/sync-indicators/)
 
 ### Polling
 - Polling in spotty connection, or app runs into background
