@@ -1,5 +1,6 @@
 ## Topics
 
+## System Design
 ### How to support offline?
 - [Airplane Mode](https://tech.trello.com/sync-architecture/)
 - [Sync](https://tech.trello.com/syncing-changes/)
@@ -16,5 +17,12 @@
 
 ### Git
 
-### Design Pattern
+## Design Pattern
 - [Design Notification Center](https://github.com/100mango/SwiftNotificationCenter)
+
+## Data Structrure and Algorithms
+
+- [dfs](https://leetcode.com/list?selectedList=e75upz5g)
+- [In-Order-BST](https://leetcode.com/list?selectedList=euqf8w3g)
+
+
