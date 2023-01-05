@@ -22,8 +22,10 @@
 
 ## Data Structrure and Algorithms
 
-- [dfs](https://leetcode.com/list?selectedList=e75upz5g)
-- [bfs](https://leetcode.com/list?selectedList=et5pil9r)
+- [DFS](https://leetcode.com/list?selectedList=e75upz5g)
+- [BFS](https://leetcode.com/list?selectedList=et5pil9r)
 - [In-Order-BST](https://leetcode.com/list?selectedList=euqf8w3g)
+- [BT](https://leetcode.com/list?selectedList=oncud9uc)
+- [Intervals](https://leetcode.com/list?selectedList=9fsxo1iv)
 
 
