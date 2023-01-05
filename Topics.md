@@ -60,3 +60,6 @@
 ### Persistence
 - Cache
   - [NSURLCache](https://nshipster.com/nsurlcache/)
+
+### Swift
+- [Quizz](https://jasper-foe-e81.notion.site/F-L-A-S-H-C-A-R-D-S-592bc284ccce4b3991aa8044705bf573): to review
