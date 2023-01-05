@@ -17,7 +17,7 @@
   
 ### Handle Synchronization conflicts
 - [Azure: Handle Synchronization conflicts](https://www.youtube.com/watch?v=aIuxJHq0NYY&ab_channel=XamarinUniversity)
-- [Google Doc](https://www.youtube.com/watch?v=B5NULPSiOGw&ab_channel=InfoQ)
+- [Google Doc](https://www.youtube.com/watch?v=B5NULPSiOGw&ab_channel=InfoQ): automerge, pullrequest
 
 ### Polling
 - Polling in spotty connection, or app runs into background
