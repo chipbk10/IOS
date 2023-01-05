@@ -42,3 +42,7 @@
 
 ### Security
 - [Exploiting Common iOS Apps’ Vulnerabilities](https://www.youtube.com/watch?v=RLzbHHoEKo8&ab_channel=InfoQ): to watch
+
+### Persistence
+- Cache
+  - [NSURLCache](https://nshipster.com/nsurlcache/)
