@@ -13,6 +13,9 @@
 - [Discord group](https://discord.com/invite/AWDNrvqban) for finding partners
 - [List of recorded mocks](https://codeshare.io/mobiledesignmocks)
 
+### Resource:
+- [Building mobile app at scale](https://drive.google.com/drive/u/0/folders/1DuozSvEJN7-W0tY26dkhJxm1VutSO8Kn): to read (very important)
+
 ### How to support offline?
 - Trello
   - [Airplane Mode](https://tech.trello.com/sync-architecture/)
