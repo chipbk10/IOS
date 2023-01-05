@@ -2,11 +2,16 @@
 
 ## System Design
 
+### Exercise:
 - [Design File Downloader Library](https://github.com/weeeBox/mobile-system-design/blob/master/exercises/file-downloader-library.md): to redo
 - [Design Caching Library](https://github.com/weeeBox/mobile-system-design/blob/master/exercises/caching-library.md): to redo
 - [Design Image Library](https://github.com/weeeBox/mobile-system-design/blob/master/exercises/image-library.md): to redo
 - [Design Chat app](https://github.com/weeeBox/mobile-system-design/blob/master/exercises/chat-app.md): to redo
 - [Design Twitter Feed](https://github.com/weeeBox/mobile-system-design): to redo
+
+### Mock
+- [Discord group](https://discord.com/invite/AWDNrvqban) for finding partners
+- [List of recorded mocks](https://codeshare.io/mobiledesignmocks)
 
 ### How to support offline?
 - Trello
