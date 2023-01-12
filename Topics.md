@@ -63,3 +63,8 @@
 
 ### Swift
 - [Quizz](https://jasper-foe-e81.notion.site/F-L-A-S-H-C-A-R-D-S-592bc284ccce4b3991aa8044705bf573): to review
+
+## CI/CD
+
+### Pipeline
+- [How does XCode generate a DerivedData hash?](https://github.com/chipbk10/IOSSwiftBestPractice/blob/main/IOSSwiftBestPractice/CICD/GenerateDerivedDataHash.swift)
