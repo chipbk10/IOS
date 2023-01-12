@@ -68,3 +68,7 @@
 
 ### Pipeline
 - [How does XCode generate a DerivedData hash?](https://github.com/chipbk10/IOSSwiftBestPractice/blob/main/IOSSwiftBestPractice/CICD/GenerateDerivedDataHash.swift)
+- SwiftLint? What is the advantage of create a separate target for SwiftLint?
+- What is the aggregate target used for?
+- Sonarqube?
+- Keychain doesn't allow to use different accounts to access the same base url (like www.example.com, www.example.com/home, www.example.com/category, etc.) How do we overcome it? use a custom credential provider (in keychain)
