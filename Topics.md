@@ -64,7 +64,7 @@
 ### Swift
 - [Quizz](https://jasper-foe-e81.notion.site/F-L-A-S-H-C-A-R-D-S-592bc284ccce4b3991aa8044705bf573): to review
 - [autoclosure](https://www.swiftbysundell.com/articles/using-autoclosure-when-designing-swift-apis/)
-- [frozen](https://useyourloaf.com/blog/swift-5-frozen-enums/)
+- [frozen enum](https://useyourloaf.com/blog/swift-5-frozen-enums/)
 
 ## CI/CD
 
