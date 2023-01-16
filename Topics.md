@@ -68,7 +68,7 @@
 
 ### Pipeline
 - [How does XCode generate a DerivedData hash?](https://github.com/chipbk10/IOSSwiftBestPractice/blob/main/IOSSwiftBestPractice/CICD/GenerateDerivedDataHash.swift)
-- SwiftLint? What is the advantage of create a separate target for SwiftLint?
+- SwiftLint? What is the advantage of create a separate target for SwiftLint? for standardization, and also because you don't want to run swiftlint everytime you build your target (you only need to run it at some point, as a check, but not everytime, especially on the CI, that's too expensive)
 - What is the aggregate target used for?
 - Sonarqube?
 - Keychain doesn't allow to use different accounts to access the same base url (like www.example.com, www.example.com/home, www.example.com/category, etc.) How do we overcome it? The answer is use a custom credential provider (in keychain). It's a bit more subtle than that, like, you can configure keychain to hold different credentials for full repo url-s, but we need an intermediate thing (like dev.azure.com/<organization>). The default macos keychain handler allows only base url (dev.azure.com), or full repo-url (dev.azure.com/../../../<reponame>), but no intermediate ...and it has other disadvantages too
