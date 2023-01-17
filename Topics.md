@@ -68,6 +68,9 @@
 - [autoclosure](https://www.swiftbysundell.com/articles/using-autoclosure-when-designing-swift-apis/)
 - [frozen enum](https://useyourloaf.com/blog/swift-5-frozen-enums/)
 
+### SwiftUI
+- [Navigation](https://github.com/pointfreeco/swiftui-navigation)
+
 ## CI/CD
 
 ### Pipeline
