@@ -67,6 +67,10 @@
 - [Quizz](https://jasper-foe-e81.notion.site/F-L-A-S-H-C-A-R-D-S-592bc284ccce4b3991aa8044705bf573): to review
 - [autoclosure](https://www.swiftbysundell.com/articles/using-autoclosure-when-designing-swift-apis/)
 - [frozen enum](https://useyourloaf.com/blog/swift-5-frozen-enums/)
+- `static func` vs `class func`: static and class both associate a method with a class, rather than an instance of a class. The difference is that subclasses can override class methods; they cannot override static methods.
+
+### Test
+- How to call a set up method only once before running all tests? use `override class func setUp()`
 
 ### SwiftUI
 - [Navigation](https://github.com/pointfreeco/swiftui-navigation)
