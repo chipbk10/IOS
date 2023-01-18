@@ -70,7 +70,8 @@
 - `static func` vs `class func`: static and class both associate a method with a class, rather than an instance of a class. The difference is that subclasses can override class methods; they cannot override static methods.
 
 ### Test
-- How to call a set up method only once before running all tests? use `override class func setUp()`
+- How to call a set up method only once before running all tests in a test class? use `override class func setUp()`
+- How to call a set up method only once before running all tests of all classes? use [Principal class](https://apple.co/3wclsYk) in info plist of Tests target [more info](https://bit.ly/3QPGIfC)
 
 ### SwiftUI
 - [Navigation](https://github.com/pointfreeco/swiftui-navigation)
