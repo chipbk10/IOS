@@ -7,7 +7,7 @@
 - [Design Caching Library](https://github.com/weeeBox/mobile-system-design/blob/master/exercises/caching-library.md): to redo
 - [Design Image Library](https://github.com/weeeBox/mobile-system-design/blob/master/exercises/image-library.md): to redo
 - [Design Chat app](https://github.com/weeeBox/mobile-system-design/blob/master/exercises/chat-app.md): to redo
-  - [ask ChatGPT](https://bit.ly/3QYs1qL)
+  - [ask ChatGPT](https://bit.ly/3XNnYzY)
 - [Design Twitter Feed](https://github.com/weeeBox/mobile-system-design): to redo
 
 ### Mock
