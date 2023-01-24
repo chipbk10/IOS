@@ -86,4 +86,6 @@
 - Sonarqube?
 - Keychain doesn't allow to use different accounts to access the same base url (like www.example.com, www.example.com/home, www.example.com/category, etc.) How do we overcome it? The answer is use a custom credential provider (in keychain). It's a bit more subtle than that, like, you can configure keychain to hold different credentials for full repo url-s, but we need an intermediate thing (like dev.azure.com/<organization>). The default macos keychain handler allows only base url (dev.azure.com), or full repo-url (dev.azure.com/../../../<reponame>), but no intermediate ...and it has other disadvantages too
 
-
+### Others
+- Design: Figma, Invision
+- [https://app.lokalise.com/](https://app.lokalise.com/)
