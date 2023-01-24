@@ -69,6 +69,8 @@
 - [autoclosure](https://www.swiftbysundell.com/articles/using-autoclosure-when-designing-swift-apis/)
 - [frozen enum](https://useyourloaf.com/blog/swift-5-frozen-enums/)
 - `static func` vs `class func`: static and class both associate a method with a class, rather than an instance of a class. The difference is that subclasses can override class methods; they cannot override static methods.
+- decode an enum --> use struct (RawRepresentable) instead
+- codable, decodable, RawRepresentable
 
 ### Test
 - How to call a set up method only once before running all tests in a test class? use `override class func setUp()`
